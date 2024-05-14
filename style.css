@@ -1,0 +1,72 @@
+.img {
+  size: 50%;
+}
+
+h1 {
+  margin: 0 auto;
+  color: #000000; /*文字色*/
+  padding: 5px 0; /*上下の余白*/
+  width: auto;
+}
+body{
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+}
+
+header {
+  color: rgb(236, 158, 74);
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+.top-wrapper {
+  margin: 0 50px;
+background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/whole-visual.webp);
+background-size: cover;
+background-position: center;
+}
+
+
+
+.btn {
+  background-color: #f0a92e;
+  color: #ffffff;
+  padding: 10px 100px;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn--orange,
+a.btn--orange {
+  color: #fff;
+  background-color: #ff7f23;
+}
+.btn--orange:hover,
+a.btn--orange:hover {
+  padding: 0 100px;
+  color: #fff;
+  background: #fd9042;
+}
+
+a.btn--radius {
+   border-radius: 100vh;
+}
+
+
+
+
+.main{
+  font-size: 40px;
+  padding: 0 50px;
+  font-weight: bold;
+}
+
+.注釈{
+  font-size: 10px;
+  padding: 0 50px;
+}
